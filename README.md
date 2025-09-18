@@ -10,8 +10,11 @@
 
 👉👉👉 视频演示：https://www.bilibili.com/video/BV13EjGz2Ers
 
-👉👉👉👉 我们鼓励技术交流，不仅仅是bug处理，还有功能请求，文档请求，还有实战经验/业务加密设计等，欢迎在issue分享/讨论
-
+**我们鼓励加解密相关技术的分享交流探讨，欢迎在 [issue](https://github.com/cloud-jie/CloudX/issues/new/choose) 走出第一步，即使那与本项目无关，包括不限于：**
+  1. 报告 CloudX 异常行为、崩溃或规则未生效等问题
+  2. 建议新功能或改进
+  3. 建议补充或改进 CloudX文档/README/规则说明/教程
+  4. 加解密实战经验/业务加密设计
 ---
 
 ## 如何使用：
